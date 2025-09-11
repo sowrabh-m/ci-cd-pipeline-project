@@ -1,0 +1,3 @@
+flask==3.0.3
+# optional if you’ll run with gunicorn in the container
+gunicorn==22.0.0
